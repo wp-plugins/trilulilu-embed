@@ -4,7 +4,7 @@ Donate link: http://www.vesavlad.co.cc/
 Tags: embeded, video, audio, image, flash
 Requires at least: 2.3
 Tested up to: 3.0.1
-Stable tag: 0.1
+Stable tag: 0.2a
 
 Plugin for showing embed movies and audio for the trilulilu.ro website. 
 
@@ -21,6 +21,7 @@ Where the url represents the webpage url showing the video or image or audio tha
 
 1. The screenshot1.png show`s you how you can enter the trilulilu media in your blog posts or pages.
 1. The second snapshot (screenshot2.png) show`s the effect of adding the code showed in snapshot1.png in your blog pages or posts.
+1. Administration menu for the plugin
 
 
 == Installation ==
@@ -34,6 +35,9 @@ To install the plugin you should do the following:
 Please send questions to vesavlad at http://www.vesavlad.co.cc/contact/
 
 == Changelog ==
+= 0.2 =
+* added administration menu where users cand configure the size of players
+* little modification to the code
 
 = 0.1 =
 * The first version of the plugin. 
